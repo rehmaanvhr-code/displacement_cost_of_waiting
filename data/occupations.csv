@@ -1,0 +1,41 @@
+occupation,group,employment,median_wage,ai_exposure
+Customer service representatives,Sales and service,180000,42000,0.72
+Bank tellers,Sales and service,45000,41000,0.8
+Retail salespersons,Sales and service,420000,35000,0.25
+Cashiers,Sales and service,300000,32000,0.2
+Food counter attendants,Sales and service,260000,31000,0.1
+Cooks,Sales and service,190000,34000,0.08
+Administrative assistants,Business and administration,250000,48000,0.78
+Accounting clerks,Business and administration,140000,50000,0.82
+Payroll administrators,Business and administration,40000,55000,0.75
+Insurance claims adjusters,Business and administration,35000,62000,0.7
+Loan officers,Business and administration,30000,66000,0.68
+Human resources professionals,Business and administration,90000,75000,0.55
+Financial analysts,Business and administration,70000,85000,0.72
+Accountants and auditors,Business and administration,200000,78000,0.65
+Marketing specialists,Business and administration,80000,68000,0.6
+Software developers,Natural and applied sciences,300000,98000,0.7
+Data analysts,Natural and applied sciences,60000,80000,0.75
+Computer network technicians,Natural and applied sciences,70000,70000,0.45
+Civil engineers,Natural and applied sciences,50000,92000,0.35
+Mechanical engineers,Natural and applied sciences,40000,90000,0.35
+Registered nurses,Health,320000,82000,0.15
+Medical laboratory technologists,Health,25000,70000,0.3
+Pharmacists,Health,45000,105000,0.4
+Physicians,Health,95000,250000,0.3
+Personal support workers,Health,250000,38000,0.05
+Elementary school teachers,Education and law,280000,78000,0.3
+Paralegals,Education and law,40000,60000,0.72
+Lawyers,Education and law,100000,130000,0.55
+Translators,Education and law,15000,55000,0.85
+Journalists,Art and culture,12000,62000,0.7
+Graphic designers,Art and culture,45000,52000,0.65
+Truck drivers,Trades and transport,320000,55000,0.05
+Electricians,Trades and transport,90000,72000,0.05
+Carpenters,Trades and transport,120000,60000,0.03
+Plumbers,Trades and transport,55000,70000,0.03
+Machine operators,Manufacturing,200000,45000,0.12
+Assemblers,Manufacturing,150000,42000,0.1
+Quality control inspectors,Manufacturing,40000,50000,0.35
+Farm workers,Natural resources,120000,33000,0.04
+Mining and oil workers,Natural resources,60000,95000,0.08
